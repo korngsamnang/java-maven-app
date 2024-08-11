@@ -14,6 +14,7 @@ pipeline{
                 gv = load "script.groovy"
             }
         }
+    }
 
 
 
